@@ -5,6 +5,12 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 반가워요! (Hi, there!) </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요,<br></li>풀 스택 개발자가 되고 싶은 HJTN 입니다.<br></li>제 프로필 구경하고 가세요~!</li><br><br></li>요즘 저는 백준 문제에 빠져 있답니다.😁😒<br></li>현재 3달 안에 플레 가는 목표를 잡고 열심히 문제를 풀고 있어요!<br></li>(From. 2026/02/16 ~ )</li><br><br></li>아래 링크를 참고해서 연락 주고 받으면 좋겠어요~🤗🤗 </div> 
     </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+      
+    ![HJTN's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJTN&show_icons=true&theme=radical)<br>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjtn01)](https://solved.ac/hjtn01/)
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
@@ -34,8 +40,3 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-      
-    [![HJTN's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJTN&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjtn01)](https://solved.ac/hjtn01/)
