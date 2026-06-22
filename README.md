@@ -54,8 +54,8 @@
         <a href=https://velog.io/@hjtn/posts> 
             <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@hjtn/posts"> 
         </a>
-        <a href=https://seen-xenon-417.notion.site/Heo-Jinsu-33dca9d836f9800ca672d2944c1ac1f8> 
-            <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://seen-xenon-417.notion.site/Heo-Jinsu-33dca9d836f9800ca672d2944c1ac1f8"> 
+        <a href=https://seen-xenon-417.notion.site/Jinsu-Heo-HJTN-bea1a8f1edf94fa8819036ebd91718c1> 
+            <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://seen-xenon-417.notion.site/Jinsu-Heo-HJTN-bea1a8f1edf94fa8819036ebd91718c1"> 
         </a>
         <a href=https://www.instagram.com/h.anti_lg/> 
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h.anti_lg/"> 
