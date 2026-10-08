@@ -17,7 +17,7 @@
             <li>'<b>GDGoC KNU(6기)</b>' AI 분야 활동 (2026.09 ~ 現)</li>
             <li>
                 '<b>✨학생 창업 유망팀 300+ (U300+)</b>' <b>최종 선발</b>, 교육 및 멘토링 수료
-                <ul><li>11월 내 <b>교육부장관 인증서</b> 취득 예정</li></ul>
+                <ul><li>11월 내 <b>✨교육부장관 인증서</b> 취득 예정</li></ul>
             </li>
             <li>'<b>LG Aimers [9기_Phase1&2]</b>' 연구·R&D(AI) 수료</li>
             <li>
@@ -26,10 +26,10 @@
             </li>
             <li>'<b>2026년 SW파일럿(4기)</b>' PBL 기반 프로젝트 수행 및 학습과정 수료</li>
             <li>'<b>42경산 라피신(4기 2차)</b>' 프로그램 수료</li>
-            <li>'<b>2026년도 창업아이템 경진대회</b>' <b>우수상</b> 수상</li>
         </ul>
         <h3>☀️ 2026년도 상반기</h3>
         <ul>
+            <li>'<b>2026년도 창업아이템 경진대회</b>' <b>🥉우수상</b> 수상</li>
             <li>'<b>Google Cloud AI Agent Challenge</b>' 교육 수료 및 챌린지 <b>🥈최우수상</b> 수상</li>
             <li>'<b>42경산 라피신(4기 1차)</b>' 프로그램 수료</li>
             <li>IT대학 학술 동아리 '<b>해달(Haedal)</b>' 운영진(부회장) 활동 (2026.01 ~ 現)</li>
@@ -47,7 +47,7 @@
         <ul>
             <li>'<b>Google Developer Student Clubs 2~3기</b>' 활동</li>
             <li>'<b>LG Aimers(2기)</b>' Data Intelligence 수료</li>
-            <li>'<b>김재일 교수님, IPA 연구실 학부연구생</b>' <b>실시간 이상 초음파 영상 탐지 연구</b> 활동(6개월)</li>
+            <li>'<b>김재일 교수님, IPA 연구실 학부연구생</b>' <b>🔬실시간 이상 초음파 영상 탐지 연구</b> 활동(6개월)</li>
         </ul>
     </div>
     <div style="f1ont-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
