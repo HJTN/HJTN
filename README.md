@@ -47,7 +47,7 @@
         <ul><li>정보처리기사, 빅데이터분석기사, ADsP, SQLD, SW테스트전문가(CSTS) 일반등급, 전산회계1급 有</li></ul>
         <h4>🏃‍♂️ 그 외 활동</h4>
         <ul>
-            <li>'<b>Google Developer Student Clubs 2~3기</b>' 활동</li>
+            <li>'<b>Google Developer Student Clubs 2~3기</b>' AI 엔지니어·Android 앱 프론트엔드 활동</li>
             <li>'<b>LG Aimers(2기)</b>' Data Intelligence 수료</li>
             <li>'<b>김재일 교수님, IPA 연구실 학부연구생</b>' <b>🔬실시간 이상 초음파 영상 탐지 연구</b> 활동(6개월)</li>
         </ul>
