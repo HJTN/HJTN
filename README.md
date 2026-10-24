@@ -27,13 +27,13 @@
             </li>
             <li>'<b>LG Aimers [9기_Phase1&2]</b>' 연구·R&D(AI) 수료</li>
             <li>'<b>2026년 청년인재 혁신아카데미(2기)</b>' 미래모빌리티 특화과정 이론·실습 과정 수료</li>
-            <li>'<b>2026년 SW파일럿(4기)</b>' Java 학습과정 수료 및 PBL 기반 프로젝트 수행</li>
+            <li>'<b>2026년 SW파일럿(4기)</b>' Java 학습과정 수료 및 PBL 기반 '모빌리티 정산 서비스(EasyADJ)' 프로젝트 수행</li>
             <li>'<b>42경산 라피신(4기 2차)</b>' 프로그램 수료</li>
         </ul>
         <h3>☀️ 2026년도 상반기</h3>
         <ul>
             <li>'<b>2026년도 창업아이템 경진대회</b>' <b>🥉우수상</b> 수상</li>
-            <li>'<b>Google Cloud AI Agent Challenge</b>' 교육 수료 및 챌린지 <b>🥈최우수상</b> 수상</li>
+            <li>'<b>Google Cloud AI Agent Challenge</b>' Agent 교육 수료 및 챌린지 <b>🥈최우수상</b> 수상</li>
             <li>'<b>42경산 라피신(4기 1차)</b>' 프로그램 수료</li>
             <li>IT대학 학술 동아리 '<b>해달(Haedal)</b>' 운영진(부회장) 활동 (2026.01 ~ 現)</li>
         </ul>
