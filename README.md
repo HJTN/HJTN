@@ -49,7 +49,10 @@
         <h4>🏃‍♂️ 그 외 활동</h4>
         <ul>
             <li>'<b>Google Developer Student Clubs 2~3기</b>' AI 엔지니어·Android 앱 프론트엔드 활동</li>
+            <li>'<b>2023 <BEYOND AI BASIC> 코칭스터디</b>' 부스터 활동 및 교육 수료</li>
             <li>'<b>LG Aimers(2기)</b>' Data Intelligence 수료</li>
+            <li>'<b>[부스트캠프 AI Tech 5기] Pre-Course</b>' 교육 수료</li>
+            <li>'<b>2023 <인공지능 기초 다지기> 코칭스터디</b>' 리드부스터·부스터 활동 및 교육 수료</li>
             <li>'<b>김재일 교수님, IPA 연구실 학부연구생</b>' <b>🔬실시간 이상 초음파 영상 탐지 연구</b> 활동(6개월)</li>
         </ul>
     </div>
